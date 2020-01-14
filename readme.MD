@@ -34,7 +34,7 @@ The aim of this project is to create a convenient way for passengers to purchase
 #### Customers
 ![customers](images/customers.PNG)
 #### Administrator
-![admin](images/admin.PNG) 
+![admins image](images/admins.PNG) 
 
 ---
 
