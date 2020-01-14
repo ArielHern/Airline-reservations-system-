@@ -6,12 +6,10 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [License](#license)
-- [Author Info](#author-info)
 
 ---
 
@@ -34,9 +32,9 @@ The aim of this project is to create a convenient way for passengers to purchase
 ## How To Use
 
 #### Customers
-- Execute customer.register  to register new customers
+![customers](images/customers.PNG)
 #### Administrator
-- 
+![admin](images/admin.PNG) 
 
 ---
 
