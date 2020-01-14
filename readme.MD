@@ -1,6 +1,5 @@
 # Airline Reservation System
-![Logical Image](images/logicalModel.PNG)
-![Logical Image](images/physicalModel.PNG)
+
 > A reservation system using PL/SQL.
 
 ---
@@ -28,6 +27,11 @@ The aim of this project is to create a convenient way for passengers to purchase
 [Back To The Top](#Airline-Reservation-System)
 
 ---
+## Diagram
+#### Logical
+![Logical Image](images/logicalModel.PNG)
+#### Physical
+![physical Image](images/physicalModel.PNG)
 
 ## How To Use
 
